@@ -1,0 +1,9 @@
+You are going to develop a module of Chittagong University ERP (Enterprise Resource Planning) 
+solution for opening new departments under 7 faculties: Engineering, 
+Science, Arts, Law, Social Science, Business Administration and life 
+science. VC office asked for the name of new departments. 
+The Dean offices perform a meeting with faculty members fixing up the name 
+of new departments and then propose the names in Academic Council meeting 
+in VC office for discussion. In this meeting, the departments will be 
+finalized. Note: the business logic of each method includes displaying 
+a message.

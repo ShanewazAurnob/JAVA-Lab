@@ -1,0 +1,9 @@
+Name: Raihan Kabir
+Dasignation: Student
+Basic Salary: 1000
+Name: Kabir Khan
+Dasignation: Teacher
+Basic Salary: 1000
+Name: Raihan Kabir
+Designation: Student
+Basic Salary: 1000
